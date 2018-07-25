@@ -54,7 +54,7 @@ body {
   margin-right: 11px;
 }
 
-#social-media {
+ul#social-media {
   list-style-type: none;
   display: flex;
   flex-direction: row;
