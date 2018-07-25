@@ -55,8 +55,8 @@ body {
 }
 
 ul#social-media {
-  list-style-type: none;
-  display: flex;
+  list-style-type: none !important;
+  display: flex !important;
   flex-direction: row;
   width: 230px;
   justify-content: space-between;
