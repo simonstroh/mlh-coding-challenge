@@ -120,5 +120,13 @@ a {
 }
 
 @media only screen and (max-width: 500px) {
-
+  #profile-photo {
+    width: 100%;
+    border-radius: 0;
+  }
+  #biography {
+    width: 100%;
+    border-radius: 0;
+    border: 0;
+  }
 }
