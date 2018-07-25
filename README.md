@@ -10,9 +10,9 @@ Coding challenge submission made by Simon Stroh.
   - In my HTML file, I created the structure for my document, following the format of the layout in the example given, replacing the placeholder text with information about myself.
   ### Creating the Structure
   The page was divided into three modules:
-  ~ the navbar
-  ~ the profile picture
-  ~ the biography
+  - the navbar
+  - the profile picture
+  - the biography
   ### Designing the Layout
   - Once I completed the structure of my webpage, I proceeded to view the document in a browser so I could get a sense of what my initial changes looked like.
   - I opened the page from my local machine and viewed the position of all of my elements. This was a good starting point because I can adjust the position and size of each of the elements based on their proportions and based on their position.
