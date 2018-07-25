@@ -6,7 +6,7 @@ Coding challenge submission made by Simon Stroh.
 
   ### Setup
   - The setup for my project was an HTML file and a CSS file, as well as a folder where I would store all of my assets, such as images or icons.
-  Marking Up First Draft
+  ### Marking Up First Draft
   - In my HTML file, I created the structure for my document, following the format of the layout in the example given, replacing the placeholder text with information about myself.
   ### Creating the Structure
   The page was divided into three modules:

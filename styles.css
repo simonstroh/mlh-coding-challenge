@@ -54,7 +54,7 @@ body {
   margin-right: 11px;
 }
 
-#social-media > ul {
+#social-media {
   list-style-type: none;
   display: flex;
   flex-direction: row;
@@ -117,4 +117,8 @@ a {
   font-size: 9pt;
   margin-right: 12px;
   margin-bottom: 12px;
+}
+
+@media only screen and (max-width: 500px) {
+
 }
